@@ -3,6 +3,7 @@
 ## Documents
 
  * Design: https://kafka.apache.org/08/design.html
+ * Infrastructure for Data Streams: http://vilkeliskis.com/blog/2014/11/10/infrastructure_for_data_streams.html
 
 ## Consumers
 
